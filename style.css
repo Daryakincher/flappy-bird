@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Nunito+Sans&display=swap");
+
+body {
+  margin: 0;
+  text-align: center;
+  background-color: rgb(189, 226, 245);
+}
+
+header {
+  margin: 0 auto;
+  width: 431px;
+  margin-bottom: 80px;
+}
+#canvas {
+  border: 1px solid #000;
+  background-color: #25a1da;
+  display: block;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 50px;
+  color: #e2b156;
+  -webkit-text-stroke: 1px #000;
+  text-shadow: 0.07em 0 #e0b38e;
+  user-select: none;
+}
